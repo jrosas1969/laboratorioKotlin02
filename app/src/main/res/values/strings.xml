@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">laboratorio02</string>
+    <string name="titulo01">TAXONOMIA DE LAS GENERACIONES</string>
+    <string name="verificar">Verificar</string>
+    <string name="res_01">Nombre de la generacion</string>
+    <string name="poblacion">Poblacion</string>
+</resources>
